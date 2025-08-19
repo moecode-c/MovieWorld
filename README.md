@@ -1,0 +1,1 @@
+Movieland is a Netflix-inspired web app built with React, Tailwind CSS, and the TMDB API. It features responsive movie carousels, search functionality, and dynamic content rendering for a seamless streaming experience.
